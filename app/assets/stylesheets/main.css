@@ -1,0 +1,64 @@
+#wrapper {
+	width: 840px;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: hidden;
+}
+
+#leftsidebar {
+	margin-right: 30px;
+}
+
+#main {
+	text-align: center;
+}
+
+.one-third-column {
+	width: 33%;
+	float: left;
+	text-align: center;
+}
+
+.one-third-column p {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+#pricing {
+	margin-top: 20px;
+	text-align: center;
+}
+
+.disclaimer {
+	font-size: 10px;
+}
+
+.price {
+	margin-top: 50px;
+}
+
+.product-description {
+	text-align: left;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.product-description dt {
+	margin-bottom: 10px;
+}
+
+.product-description dd {
+	margin-bottom: 10px;
+}
+
+#footerwrapper {
+	height: 60px;
+}
+
+#footer {
+	bottom: 0px;
+	height: 30px;
+	width: 840px;
+	font-size: 12px;
+	margin-top: 30px;
+}
