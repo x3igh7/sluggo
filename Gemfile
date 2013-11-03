@@ -29,10 +29,9 @@ group :doc do
   gem 'sdoc', require: false
 end
 
-gem 'newrelic_rpm'
-
 group :production do
   gem 'rails_12factor'
+  gem 'newrelic_rpm'
 end
 
 # Use ActiveModel has_secure_password
